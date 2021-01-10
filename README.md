@@ -1,2 +1,3 @@
 # Car-workshop-management-systme
-This project coded using JAVA and use GUI.
+This project is coded using JAVA and used GUI.
+The ide used was eclipse.
